@@ -1,0 +1,10 @@
+What are props?
+    Passed in JSX
+    ex:<Hello name='Clint' lang='en'>
+What is state?
+    Changable part in component 
+What is class?
+    extendable object, factory for object
+Error type
+    a. bind
+    b. self = this.state
