@@ -8,3 +8,12 @@ What is class?
 Error type
     a. bind
     b. self = this.state
+
+INSTRUCTION ON GITHUB
+    1. git clone + {address from github}
+    2. cd into folder
+    3. npm init (node module)
+    -----------------------------------------
+    4. git add . 
+    5. git commit -m ''
+    6. git push
